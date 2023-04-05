@@ -1,0 +1,122 @@
+{"trials": [
+    {
+        "Mixing Formula": " D2 F' L B L B D' R R' B' F L' F2 R' F' F2 F2 D' R U' F2 L L' L2 D2",
+        "name": "1",
+        "time": 1200198754
+    },
+    {
+        "Mixing Formula": " B B2 D F2 L B U B' B B D F2 L F D L R2 R' B' U R2 L' U B2 B'",
+        "name": "2",
+        "time": 1045993917
+    },
+    {
+        "Mixing Formula": " B' D L B2 U F2 D F D' B2 U2 R2 L' B' F' R D' F R2 R' R F' D2 L2 R'",
+        "name": "3",
+        "time": 850443105
+    },
+    {
+        "Mixing Formula": " D R2 U2 R B' F2 R' F2 B2 D B2 B U2 R U' L' U2 U L2 F2 U F R' L2 B2",
+        "name": "4",
+        "time": 317015868
+    },
+    {
+        "Mixing Formula": " D2 B2 R' F2 B2 U2 B2 F2 D' F B2 L D' B' L2 U' L' L' D R' R2 F' U R D2",
+        "name": "5",
+        "time": 299695385
+    },
+    {
+        "Mixing Formula": " R F2 U' U L2 F D' B2 B U2 L2 R L L2 L2 R' D' L U' F' B F2 L' D' F",
+        "name": "6",
+        "time": 383372273
+    },
+    {
+        "Mixing Formula": " R U R2 U2 U' F D R2 R' U' B B' R L2 F D L2 D' F D' U' B2 R' F F2",
+        "name": "7",
+        "time": 349473134
+    },
+    {
+        "Mixing Formula": " F' D2 U F F D' R B2 B' F' D2 B' B2 D B2 U' L2 L U2 D B' F2 R' B' D2",
+        "name": "8",
+        "time": 318129413
+    },
+    {
+        "Mixing Formula": " U D R2 B' U2 U' B' U2 R2 D' L' R' R' B D D2 F2 L' D D' F2 B' B R2 B",
+        "name": "9",
+        "time": 282824223
+    },
+    {
+        "Mixing Formula": " U' U' B' D2 B' B' F R2 L' B' R' B2 R D' D R2 D' F' B U' D2 L2 F2 R' D2",
+        "name": "10",
+        "time": 317668600
+    },
+    {
+        "Mixing Formula": " D' B2 L' R D B L D B' R2 D2 R L R2 B' L2 D B' R' L D' U D2 D' R'",
+        "name": "11",
+        "time": 333866341
+    },
+    {
+        "Mixing Formula": " U D2 U L2 L F2 U2 R2 B' U' L2 L2 D F2 B2 B' D F U' U R2 F2 F' L D2",
+        "name": "12",
+        "time": 401985206
+    },
+  {
+    "Mixing Formula": " D2 F' L B L B D' R R' B' F L' F2 R' F' F2 F2 D' R U' F2 L L' L2 D2",
+    "name": "13",
+    "time": 1200198754
+  },
+  {
+    "Mixing Formula": " B B2 D F2 L B U B' B B D F2 L F D L R2 R' B' U R2 L' U B2 B'",
+    "name": "14",
+    "time": 1045993917
+  },
+  {
+    "Mixing Formula": " B' D L B2 U F2 D F D' B2 U2 R2 L' B' F' R D' F R2 R' R F' D2 L2 R'",
+    "name": "15",
+    "time": 850443105
+  },
+  {
+    "Mixing Formula": " D R2 U2 R B' F2 R' F2 B2 D B2 B U2 R U' L' U2 U L2 F2 U F R' L2 B2",
+    "name": "16",
+    "time": 317015868
+  },
+  {
+    "Mixing Formula": " D2 B2 R' F2 B2 U2 B2 F2 D' F B2 L D' B' L2 U' L' L' D R' R2 F' U R D2",
+    "name": "17",
+    "time": 299695385
+  },
+  {
+    "Mixing Formula": " R F2 U' U L2 F D' B2 B U2 L2 R L L2 L2 R' D' L U' F' B F2 L' D' F",
+    "name": "18",
+    "time": 383372273
+  },
+  {
+    "Mixing Formula": " R U R2 U2 U' F D R2 R' U' B B' R L2 F D L2 D' F D' U' B2 R' F F2",
+    "name": "19",
+    "time": 349473134
+  },
+  {
+    "Mixing Formula": " F' D2 U F F D' R B2 B' F' D2 B' B2 D B2 U' L2 L U2 D B' F2 R' B' D2",
+    "name": "20",
+    "time": 318129413
+  },
+  {
+    "Mixing Formula": " U D R2 B' U2 U' B' U2 R2 D' L' R' R' B D D2 F2 L' D D' F2 B' B R2 B",
+    "name": "21",
+    "time": 282824223
+  },
+  {
+    "Mixing Formula": " U' U' B' D2 B' B' F R2 L' B' R' B2 R D' D R2 D' F' B U' D2 L2 F2 R' D2",
+    "name": "22",
+    "time": 317668600
+  },
+  {
+    "Mixing Formula": " D' B2 L' R D B L D B' R2 D2 R L R2 B' L2 D B' R' L D' U D2 D' R'",
+    "name": "23",
+    "time": 333866341
+  },
+  {
+    "Mixing Formula": " U D2 U L2 L F2 U2 R2 B' U' L2 L2 D F2 B2 B' D F U' U R2 F2 F' L D2",
+    "name": "24",
+    "time": 401985206
+  }
+]}
