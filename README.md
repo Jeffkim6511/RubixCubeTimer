@@ -1,37 +1,72 @@
-# Rubix Cube Application
+# 🧩 Rubik's Cube Timer Application
 
-## includes a timer, stores previous times, and more!
+A personalized timing app built for Rubik's Cube enthusiasts! This application helps you track, analyze, and improve your cube-solving skills — all in one place.
 
-This application will be for people that like to **time their rubix cube solves**.
-There will be a main page, where you can choose to go to:
-- the timer
-- previous attempts
-- Statistics such as best time, worst time, and a graph that displays your times.
-- a scramble formula when you are about to start (scramble means mixing the cube up).
-- and more when I think of new ideas.
+## ✨ Features
 
-This application will require:
-- a database that stores all the attempts,
-- methods that can search through the database and find the best time and worst times
-- method that can graph
+- ⏱️ **Solve Timer** – Start and stop your solves with a single button.
+- 📜 **Scramble Generator** – Get a new scramble each time you’re ready to start.
+- 🗂️ **Saved Attempts** – View your complete solve history.
+- 📊 **Statistics Dashboard** – See your best and worst times, total solves, and a graph of your performance over time.
+- 💾 **Session Persistence** – Automatically saves your solves across sessions.
+- 🧹 **Data Management** – Clear your current session or delete all saved data at any time.
 
-This can be used by anyone who wants to time their rubix cube solves. 
-Additionally, as this timer is pretty basic and not specific for only rubix cubes, it can 
-be used for any other competition that requires a timer.
+More features to come as the app evolves!
 
-I chose this idea because I have been interested in Rubix cubes
-and having an application like this would be beneficial as I can add 
-any feature I want that I cannot get in other applications. Therefore,
-my app can be fully personalized the way I would like.
- 
-**User Stories:**
-- As a user, I want to be able to save my times and add it to a list of times.
-- As a user, I want to be able to click the button to start the timer and the button to stop the timer.
-- As a user, I want to be able to see my best times and worst times.
-- As a user, I want to be able to see how many trials I made.
-- As a user, I want to be able to save my trials performed
-- As a user, I want to be able to quit, then come back and restore my previous attempts.
-- As a user, I want to be able to delete my save file and my current session. 
-- As a user, I want to be able to add multiple Trials to my trialsList.
-- As a user, I want to be able to load and save the state of the application.
+---
 
+## 🛠️ Technical Overview
+
+This application will include:
+
+- **Database Integration** – Stores all solve attempts persistently.
+- **Data Processing Methods** – Extracts best/worst times, counts total attempts, and calculates statistics.
+- **Graphing Tools** – Visualizes your progress with dynamic performance charts.
+
+---
+
+## 🎯 Use Cases
+
+While designed with Rubik's Cube solving in mind, this timer can be adapted for any activity or competition requiring timed trials — making it a flexible tool for speed-based hobbies and training.
+
+---
+
+## 💡 Why This App?
+
+As a Rubik's Cube enthusiast, I found existing timers limiting in features and customization. This project gives me the opportunity to create a fully personalized tool that suits my solving habits and allows me to implement features I wish other apps had.
+
+---
+
+## 👤 User Stories
+
+- As a user, I want to start and stop the timer with a button.
+- As a user, I want to save each solve and add it to my history.
+- As a user, I want to view my best and worst solve times.
+- As a user, I want to track how many solves I've completed.
+- As a user, I want my solves to persist across sessions.
+- As a user, I want to delete my saved data or reset my session.
+- As a user, I want to add multiple solves to my solve history.
+- As a user, I want to load and save the full application state.
+
+---
+
+## 🚀 Getting Started
+
+1. Open the project folder in a Java-compatible IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code with Java support).
+2. Navigate to the `ui` package or folder.
+3. Run the `Main.java` file to launch the application.
+
+---
+
+## 📌 Future Plans
+
+- Integration with online scramble databases
+- Support for different cube types (2x2, 4x4, Pyraminx, etc.)
+- Advanced stats (e.g., average of 5, average of 12)
+- Themes and layout customization
+
+---
+
+## 🧑‍💻 Author
+
+Built with passion for cubing — because no one should be limited by the tools they use.
